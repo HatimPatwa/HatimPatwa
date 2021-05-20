@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Hatim Patwa
 
-### I'am a Python Developer🐍🐍, Technology Freak🤑🤑, Foodiee 🍔🍕, Know some WEB Development too!!
+### I'am a Python Developer🐍🐍, Game Programmer , Technology Freak🤑🤑, Foodiee 🍔🍕, Know some WEB Development too!!
 <!--
 **HatimPatwa/HatimPatwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
@@ -8,8 +8,8 @@
 <li>🔭 I’m currently working on ...Hospital management system as school project</li>
 <li> 🌱 I’m currently learning ... Game mechanics</li>
  <li>🤔 I’m looking for help with ...Nothing(don't take me as rude :)</li>
-<li>💬 Ask me about ... Pythonss</li>
-<li>⚡ Fun fact: ... There is no fun in Programming you get Depression!!🙂🙂🙂</li>
+<li>💬 Ask me about ... Python</li>
+<li> Languages - C# , Python , HTML , CSS , JavaScript</li>
 </ul>
 <br>
 <br>
