@@ -8,7 +8,7 @@
 <li>🔭 I’m currently working on ...Hospital management system as school project</li>
 <li> 🌱 I’m currently learning ... Game mechanics</li>
  <li>🤔 I’m looking for help with ...Nothing(don't take me as rude :)</li>
-<li>💬 Ask me about ... Python</li>
+<li>💬 Ask me about ... Python  , Unity 3D</li>
 <li> Languages - C# , Python , HTML , CSS , JavaScript</li>
 </ul>
 <br>
