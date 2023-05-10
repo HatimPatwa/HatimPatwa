@@ -1,14 +1,14 @@
 ### Hi there 👋, I'am Hatim Patwa
 
-### I'am a Python Developer🐍🐍, Game Programmer , Technology Freak🤑🤑, Foodiee 🍔🍕, Know some WEB Development too!!
+### I'am a MEAN Developer🐍🐍, Game Programmer , Technology Freak🤑🤑, Foodiee 🍔🍕, Know some Blockchain too!!
 <!--
 **HatimPatwa/HatimPatwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 <ul type="filled">
-<li>🔭 I’m currently working on ...Jamaat management system </li>
-<li> 🌱 I’m currently learning ... Game mechanics</li>
+<li>🔭 I’m currently working on ... Sastana Rental Website </li>
+<li> 🌱 I’m currently learning ... React</li>
  <li>🤔 I’m looking for help with ...Nothing(don't take me as rude :)</li>
-<li>💬 Ask me about ... Python  , Unity 3D, PHP</li>
+<li>💬 Ask me about ... MEAN  , Unity 3D</li>
 <li> Languages - C#, C , Python , HTML , CSS , JavaScript, PHP </li>
 </ul>
 <br>
