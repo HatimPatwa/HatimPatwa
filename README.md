@@ -22,11 +22,12 @@
 <img align = "left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align = "left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align = "left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align = "left" src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=bnbchain&logoColor=white">
 <img align = "left" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
 
 <h4>Connect with me - </h4>
-<a href = "https://www.facebook.com/hatim.patwa.9/">
+<a href = "https://www.linkedin.com/in/hatim-patwa">
 <img align = "left" width='30px' src="https://skillicons.dev/icons?i=linkedin">
 </a>
 <a href =  "https://www.instagram.com/hatim_p_1603/"> 
@@ -35,5 +36,6 @@
 <a href = "https://github.com/HatimPatwa">
 <img align = "left" width='30px' src="https://skillicons.dev/icons?i=github">
 </a>
+
 
 
