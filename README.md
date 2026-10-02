@@ -59,7 +59,7 @@ const hatim = {
 </p>
 
 <h3>🤝 Connect with me</h3>
-<p>🌐 <b><a href="https://www.hatimpatwa.dev">hatimpatwa.dev</a></b> — portfolio, case studies & résumé</p>
+<p>🌐 <b><a href="https://www.hatimpatwa.dev">hatimpatwa.dev</a></b> — portfolio & case studies</p>
 <p>
   <a href="https://www.linkedin.com/in/hatim-patwa"><img width="35px" src="https://skillicons.dev/icons?i=linkedin"/></a>
   &nbsp;
