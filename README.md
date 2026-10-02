@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.hatimpatwa.dev">
+    <img src="https://img.shields.io/badge/Portfolio-hatimpatwa.dev-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/hatim-patwa">
     <img src="https://img.shields.io/badge/LinkedIn-hatim--patwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -56,6 +59,7 @@ const hatim = {
 </p>
 
 <h3>🤝 Connect with me</h3>
+<p>🌐 <b><a href="https://www.hatimpatwa.dev">hatimpatwa.dev</a></b> — portfolio, case studies & résumé</p>
 <p>
   <a href="https://www.linkedin.com/in/hatim-patwa"><img width="35px" src="https://skillicons.dev/icons?i=linkedin"/></a>
   &nbsp;
